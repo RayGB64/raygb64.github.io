@@ -1,0 +1,38 @@
+[
+    {
+        "ItemID":1,
+        "ItemName":"Dog Collar",
+        "ItemPic":"https://fi67.github.io/JsonData/images/DogCollar.webp",
+        "ItemCost":"8"
+    },
+    {
+        "ItemID":2,
+        "ItemName":"Dog Ball Toy",
+        "ItemPic":"https://fi67.github.io/JsonData/images/DogBallToy.webp",
+        "ItemCost":"8"
+    },
+    {
+        "ItemID":3,
+        "ItemName":"Dog Chew Toy",
+        "ItemPic":"https://fi67.github.io/JsonData/images/DogChewToy.webp",
+        "ItemCost":"8"
+    },
+    {
+        "ItemID":4,
+        "ItemName":"Cat Collar",
+        "ItemPic":"https://fi67.github.io/JsonData/images/CatCollar.webp",
+        "ItemCost":"8"
+    },
+    {
+        "ItemID":5,
+        "ItemName":"Cat Mouse Toy",
+        "ItemPic":"https://fi67.github.io/JsonData/images/CatMouseToy.webp",
+        "ItemCost":"8"
+    },
+    {
+        "ItemID":6,
+        "ItemName":"Cat Climb Tower",
+        "ItemPic":"https://fi67.github.io/JsonData/images/CatClimbTower.webp",
+        "ItemCost":"8"
+    }
+]
